@@ -1,0 +1,4 @@
+.mb-0.h3 {
+    font-size: 5pt;
+    color: red; /* Bright red */
+}
