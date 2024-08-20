@@ -1,4 +1,4 @@
-.mb-0.h3 {
+.p {
     font-size: 5pt;
-    color: red; /* Bright red */
+    color: red !important; /* Bright red */
 }
